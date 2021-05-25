@@ -1,0 +1,10 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -1,6 +1,6 @@
+ <?php 
+ 
+-	echo "TP";
++	echo "TP5-test2";
+ 
+ 
+ ?>
+\ No newline at end of file
