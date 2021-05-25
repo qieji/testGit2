@@ -1,6 +1,6 @@
 <?php 
 
-	echo "TP";
+	echo "TP5-test2";
 
 
 ?>
