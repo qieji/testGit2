@@ -1,6 +1,6 @@
 <?php 
 
-	echo "TP5-dev-test3";
+	var_dump(phpinfo());
 
 
 ?>
